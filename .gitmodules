@@ -1,0 +1,3 @@
+[submodule "16_word_distance_algorithms"]
+	path = 16_word_distance_algorithms
+	url = git@github.com:sarakhosrozadeh/Information-retrieval-edit-distance.git
