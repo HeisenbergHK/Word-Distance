@@ -1,7 +1,8 @@
 # WordInsight
+__WordInsight__ is a text analysis tool that extracts, tokenizes, and analyzes data from XML files to identify patterns in word usage. 
 
 ## Overview
-__WordInsight__ is a text analysis tool that extracts, tokenizes, and analyzes data from XML files to identify patterns in word usage. It ranks the top 10 most frequent words and leverages word distance algorithms to find the most similar words based on semantic and structural characteristics. This project is useful for linguistic analysis, NLP tasks, and exploring relationships between words.
+It ranks the top 10 most frequent words and leverages word distance algorithms to find the most similar words based on semantic and structural characteristics. This project is useful for linguistic analysis, NLP tasks, and exploring relationships between words.
 
 ## Features
 - Extract and process text from XML files.
